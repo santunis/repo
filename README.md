@@ -5,4 +5,6 @@ Projeto para consumir a API do github.
 
 - npx create-react-app repo
 
+- npm install axios
 
+- npm install @material-ui/core
